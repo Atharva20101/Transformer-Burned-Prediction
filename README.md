@@ -1,0 +1,4 @@
+we have created a pipeline using clustering followed by 4 different classification models that provide as with high accuracy while predicting burn damage for the transformer. The use of clustering was to handle the class imbalance in the data and different models were used to gaugethe performance of the class on different parameters. Despite the high accuracy, the challenges with predicting are still ever present. The limitations stem from the fact that the number of factorsthat affect the working of the transformer is numerous. Some of the external factors are even more difficult to predict than the fault prediction itself like temperature, humidity, voltage surge, and Natural Disasters. Still, the use of such failure prediction models is paramount in reducing time and money. Overall, the main objective is always the reduction of downtime of the machine and to prevent further damage to various other components when one of them fails.
+
+
+
